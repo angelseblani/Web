@@ -1,4 +1,7 @@
 # Firsgits
+
+[![Deploy static content to Pages](https://github.com/angelseblani/Web/actions/workflows/static.yml/badge.svg?branch=Main)](https://github.com/angelseblani/Web/actions/workflows/static.yml)
+
 Copyright (c) 2021 by Angel Siblani 
 This is a live code editor configured for Vue!
 You're on CodePen, a social development environment designed to do just this! Learn more about CodePen.
