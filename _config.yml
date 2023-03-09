@@ -9,7 +9,7 @@ theme: jekyll-theme-merlot
     # An ordered list of keys to use for restoring stale cache if no cache hit occurred for key. Note `cache-hit` returns false in this case.
     restore-keys: # optional
     # The chunk size used to split up large files during upload, in bytes
-    upload-chunk-size: # optional
+    upload-chunk-size: # yes
     # An optional boolean when enabled, allows windows runners to save or restore caches that can be restored or saved respectively on other platforms
     enableCrossOsArchive: # optional, default is false
     # Fail the workflow if cache entry is not found
